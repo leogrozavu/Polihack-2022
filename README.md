@@ -1,6 +1,5 @@
-# poli_app
 
-A new Flutter project.
+Flutter UI made during Polihack v13
 
 ## Getting Started
 
